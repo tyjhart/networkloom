@@ -8,7 +8,7 @@ I'm gathering intelligence about threat actors and the connections they make thr
 
 ## Lists
 
-I'm currently making two lists available - *port_scanners.txt* and *bad_logons.txt*. Feel free to use one or both to filter traffic on your networks. Sometime in the future I'll publish a Snort ruleset as well.
+I'm currently making two lists available - [*port_scanners.txt*](bad_logons.txt) and [*bad_logons.txt*](port_scanners.txt). Feel free to use one or both to filter traffic on your networks. Sometime in the future I'll publish a Snort ruleset as well.
 
 ## FAQ
 
