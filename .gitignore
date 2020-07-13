@@ -1,6 +1,9 @@
 # Sensor code
 Install/
 
+# Data directory
+Data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
