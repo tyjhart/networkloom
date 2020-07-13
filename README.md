@@ -32,6 +32,6 @@ This project is licensed under the **Creative Commons Attribution-NonCommercial-
 
 1. **Can I use a list on my personal systems?** Absolutely! Protecting our networks at home is important.
 
-1. **Can I use a list on my employer's systems?** Yes you can, unless your employer is an ISP, military, law enforcement, or governmental (local, state, federal, etc.) organization. If that's the case for your employer, I'll charge a small licensing fee to help keep the lights on here. Please contact me for more information.
+1. **Can I use a list on my employer's systems?** I'm charging commercial users a small licensing fee to help keep the lights on here. Please contact me at tylerhart84@gmail.com for more information.
 
 1. **Can I resell or redistribute your lists?** Not without permission - please contact me if you're interested in reselling or redistributing my lists.
